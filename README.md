@@ -6,7 +6,7 @@
 ![26](https://dl.dropboxusercontent.com/u/2882543/osm/26_w.png)
 
 ## Task 25
-![25](https://dl.dropboxusercontent.com/u/2882543/osm/25_.png)
+![25](https://dl.dropboxusercontent.com/u/2882543/osm/25_2.png)
 
 ## Task 24
 ![24](https://dl.dropboxusercontent.com/u/2882543/osm/24_2.png)
