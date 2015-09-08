@@ -1,3 +1,3 @@
 # OSM UA Week Task Design
 Task 27
-![27](gontsa.github.com/osm-ua-week-task-cover/raw/master/final-task-covers/27_small.png)
+![27](https://dl.dropboxusercontent.com/u/2882543/osm/27_small.png)
