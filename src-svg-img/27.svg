@@ -17,9 +17,9 @@
    height="1767"
    viewBox="0 0 3200 1767"
    sodipodi:docname="27.svg"
-   inkscape:export-filename="/home/fedor-gontsa/Works/osm/26.png"
-   inkscape:export-xdpi="95.990623"
-   inkscape:export-ydpi="95.990623">
+   inkscape:export-filename="/home/fedor-gontsa/Works/osm/27_small.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <metadata
      id="metadata7792">
     <rdf:RDF>
@@ -738,12 +738,12 @@
      showgrid="false"
      inkscape:showpageshadow="false"
      inkscape:zoom="0.16000001"
-     inkscape:cx="1789.0547"
-     inkscape:cy="958.01881"
+     inkscape:cx="1586.5442"
+     inkscape:cy="1048.4121"
      inkscape:window-x="45"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true">
     <sodipodi:guide
        position="0,0"
@@ -779,11 +779,95 @@
        id="image4806"
        x="0"
        y="0" />
+    <image
+       sodipodi:absref="/home/fedor-gontsa/Works/osm/27_background2.jpg"
+       xlink:href="27_background2.jpg"
+       y="-141.11243"
+       x="0"
+       id="image4903"
+       preserveAspectRatio="none"
+       height="2142.1487"
+       width="3200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:45.4604454px;line-height:125%;font-family:Sans;letter-spacing:0.08081856px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1661.7556"
+       y="1227.9072"
+       id="text6373"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.69167221,-0.41548577,1.5270936,0.52845023,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6375"
+         x="-1661.7556"
+         y="1227.9072">highway=residential</tspan><tspan
+         sodipodi:role="line"
+         x="-1661.7556"
+         y="1284.7328"
+         id="tspan6379">sidewalk=right</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:36.46518707px;line-height:139.99999762%;font-family:Sans;letter-spacing:0.01341477px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1743.6344"
+       y="-1426.4253"
+       id="text6381"
+       sodipodi:linespacing="140%"
+       transform="matrix(0.24875478,0.67822982,-1.4374383,0.10084818,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6383"
+         x="1743.6344"
+         y="-1426.4253">highway=footway</tspan><tspan
+         sodipodi:role="line"
+         x="1743.6344"
+         y="-1375.374"
+         id="tspan6404">footway=sidewalk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:Sans;letter-spacing:0.02px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="63.556534"
+       y="623.39203"
+       id="text6406"
+       sodipodi:linespacing="125%"
+       transform="matrix(1,-0.10115616,0,1,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan6408"
+         x="63.556534"
+         y="623.39203">highway=footway`</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="text">
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6357"
+       d="M 2820.6581,2043.554 2254.545,450.96641"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#faff09;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1" />
+    <g
+       id="g6351"
+       transform="translate(92.807759,-4.3544969e-7)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4503"
+         d="M -290.88947,1971.3896 1808.7705,606.96964"
+         style="display:inline;fill:none;fill-rule:evenodd;stroke:#ced200;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:30, 10;stroke-dashoffset:0;stroke-opacity:1" />
+      <ellipse
+         ry="12.892398"
+         rx="24.612761"
+         cy="1135.0636"
+         cx="994.79138"
+         id="path6349"
+         style="opacity:1;fill:#b6b91a;fill-opacity:1;stroke:none;stroke-width:1.93469965;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:5.80409896, 5.80409896;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <ellipse
+       ry="27.071415"
+       rx="31.981077"
+       cy="624.27502"
+       cx="-3359.6145"
+       id="ellipse6359"
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.93469965;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:5.80409896, 5.80409896;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(-0.94002177,-0.34111446,-0.89449656,0.44707483,0,0)" />
     <rect
        style="opacity:1;fill:url(#linearGradient10587);fill-opacity:1;stroke:none;stroke-width:0.59799999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect10579"
@@ -1524,6 +1608,23 @@
          sodipodi:role="line"
          id="tspan87467"
          x="-1230.6542"
-         y="81.022972">фото:  @gontsa</tspan></text>
+         y="81.022972">фото:  wikipedia.org</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path6365"
+       d="m 2045.5673,495.71389 75.3246,-48.94813"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ced200;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15, 5;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="fill:#101012;fill-opacity:0.68390805;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1867.1874,619.34382 47.6562,1.17187 -0.7812,-11.71874 -12.8907,-5.85938 c 0,0 -12.1093,1.95313 -14.0625,3.125 -1.9531,1.17188 -19.9218,13.28125 -19.9218,13.28125 z"
+       id="path6371"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#faff09;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:15,5;stroke-dashoffset:0;stroke-opacity:1"
+       d="m -162.87616,656.12515 646.77281,-66.91709 m 48.89042,-5.05835 258.2859,-26.72305 m 42.97225,-4.44605 199.02948,-20.59219 m 37.8458,-3.91565 125.7504,-13.01052 m 28.7612,-2.97573 82.7782,-8.56448 m 33.3601,-3.45153 147.9527,-15.30765 m 33.247,-3.43983 40.6728,-4.20814 m 18.9229,-1.95782 36.0741,-3.73233 m 19.1491,-1.98122 7.652,-0.79171 m 15.1911,-1.57171 39.8059,-4.11844 m 15.7565,-1.63022 20.4306,-2.11381 m 16.9628,-1.75502 8.9714,-0.92821 m 16.7678,-0.87775 9.1319,-0.84963 m 17.1252,-2.76214 12.0663,-1.21038"
+       id="path6377"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>
