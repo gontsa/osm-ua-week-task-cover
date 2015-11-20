@@ -1,5 +1,8 @@
 # OSM UA Week Task Design
 
+## Task 30
+![30](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/30-web.jpg)
+
 ## Task 29
 ![29](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/29_web.jpg)
 
