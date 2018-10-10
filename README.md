@@ -1,5 +1,8 @@
 # OSM UA Week Task Design
 
+## HotOSM task
+![hot](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/hot-osm-ichnya2.png)
+
 ## Task 33
 ![33](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-33-2.png)
 
