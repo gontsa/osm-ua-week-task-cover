@@ -2,7 +2,7 @@
 
 
 ## Task 34. 16 years OpenStreetMap
-![34](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-pology-34.png)
+![34](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-pology-34.png?)
 
 
 ## Special Stork task
