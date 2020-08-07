@@ -5,7 +5,7 @@
 ![hot](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-pology-34.png)
 
 
-## Spesial Stork task
+## Special Stork task
 ![hot](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/stork-cover_3.png)
 
 
