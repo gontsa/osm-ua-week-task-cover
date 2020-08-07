@@ -1,5 +1,14 @@
 # OSM UA Week Task Design
 
+
+## Task 34. 16 years OpenStreetMap
+![hot](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-pology-34.png)
+
+
+## Spesial Stork task
+![hot](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/stork-cover_3.png)
+
+
 ## HotOSM task
 ![hot](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/hot-osm-ichnya2.png)
 
