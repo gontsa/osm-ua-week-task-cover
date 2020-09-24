@@ -1,7 +1,7 @@
 # OSM UA Week Task Design
 
 ## Task 35. Schools
-![35](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-school-35.png)
+![35](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-school-35_2.png)
 
 ## Task 34. 16 years OpenStreetMap
 ![34](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-pology_34.png)
