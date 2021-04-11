@@ -1,5 +1,8 @@
 # OSM UA Week Task Design
 
+## Task 36. Pulyny
+![36](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/36-pylynska-hromada.png)
+
 ## Task 35. Schools
 ![35](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/osm-task-school-35_2.png)
 
