@@ -1,5 +1,8 @@
 # OSM UA Week Task Design
 
+## Special for Independence Day of Ukraine
+![ua30](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/30_4.png)
+
 ## Task 36. Pulyny
 ![36](https://raw.githubusercontent.com/gontsa/osm-ua-week-task-cover/master/final-task-covers/36-pylynska-hromada.png)
 
